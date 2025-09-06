@@ -1,9 +1,9 @@
-node_modules
-/.cache
-/build
-/dist
-/public/build
-/.mf
+node_modules/
 .env
-.shopify
-.react-router
+.env.*
+dist/
+build/
+.cache/
+.DS_Store
+*.log
+.vscode/
